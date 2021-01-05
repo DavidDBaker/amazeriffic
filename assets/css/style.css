@@ -8,6 +8,13 @@ footer {
     min-width: 855px;
 }
 
+header .container,
+main .container,
+footer .container {
+    max-width: 855px;
+    margin: auto;
+}
+
 header {
     background: #fff;
 }
@@ -15,3 +22,4 @@ header {
 main {
     background: #fff;
 }
+
